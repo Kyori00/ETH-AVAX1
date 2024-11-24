@@ -9,4 +9,4 @@ This contract is written in Solidity. This program is an immitation of what a ma
 ### Executing the program
 
 In order to run this program, you can use [Remix](https://remix.ethereum.org/), an online Solidity IDE.
-Once you are on the Remix website, open a file from your file system. You can download the file here.
+Once you are on the Remix website, open a file from your file system. You can download the file [here](ethFunc.sol).
