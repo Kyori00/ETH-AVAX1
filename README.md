@@ -1,4 +1,4 @@
-# Simple Marketplace
+# Voting System
 
 This is a Solidity program of a Marketplace which includes the following requirement for the project: require(), assert(), and revert() statements.
 
